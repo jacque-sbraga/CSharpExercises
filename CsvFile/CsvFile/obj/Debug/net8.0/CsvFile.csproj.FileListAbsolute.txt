@@ -1,0 +1,14 @@
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\bin\Debug\net8.0\CsvFile.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\bin\Debug\net8.0\CsvFile.deps.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\bin\Debug\net8.0\CsvFile.runtimeconfig.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\bin\Debug\net8.0\CsvFile.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\bin\Debug\net8.0\CsvFile.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.AssemblyInfoInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.AssemblyInfo.cs
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\refint\CsvFile.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\CsvFile.genruntimeconfig.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\CsvFile\CsvFile\obj\Debug\net8.0\ref\CsvFile.dll

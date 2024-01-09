@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdAI3GfLSoSjWPYNG1fLTXO62hQeezgxZ+sMupneyMsrpuy8j+EUE+6tylx9ogSRJiSsiOK175HI4ywhEHfFZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacqueline Braga\\dev\\projetos\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacqueline Braga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jacqueline Braga\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jacqueline Braga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jacqueline Braga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

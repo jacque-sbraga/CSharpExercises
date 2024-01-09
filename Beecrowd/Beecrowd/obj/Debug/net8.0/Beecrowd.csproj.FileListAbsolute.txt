@@ -1,0 +1,14 @@
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\bin\Debug\net8.0\Beecrowd.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\bin\Debug\net8.0\Beecrowd.deps.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\bin\Debug\net8.0\Beecrowd.runtimeconfig.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\bin\Debug\net8.0\Beecrowd.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\bin\Debug\net8.0\Beecrowd.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.AssemblyInfoInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.AssemblyInfo.cs
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\refint\Beecrowd.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\Beecrowd.genruntimeconfig.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\Beecrowd\Beecrowd\obj\Debug\net8.0\ref\Beecrowd.dll

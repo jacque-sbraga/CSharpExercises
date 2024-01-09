@@ -1,0 +1,11 @@
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\bin\Debug\PetShopApp.exe.config
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\bin\Debug\PetShopApp.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\bin\Debug\PetShopApp.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.csproj.AssemblyReference.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.Form1.resources
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.Properties.Resources.resources
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.csproj.GenerateResource.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\PetShopApp\PetShopApp\obj\Debug\PetShopApp.formCadastroCliente.resources

@@ -1,0 +1,14 @@
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\bin\Debug\net8.0\PortalRH.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\bin\Debug\net8.0\PortalRH.deps.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\bin\Debug\net8.0\PortalRH.runtimeconfig.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\bin\Debug\net8.0\PortalRH.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\bin\Debug\net8.0\PortalRH.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.AssemblyInfoInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.AssemblyInfo.cs
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\refint\PortalRH.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\PortalRH.genruntimeconfig.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\PortalRH\PortalRH\obj\Debug\net8.0\ref\PortalRH.dll

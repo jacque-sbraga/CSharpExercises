@@ -1,0 +1,14 @@
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\bin\Debug\net8.0\AulasIntermediarias.exe
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\bin\Debug\net8.0\AulasIntermediarias.deps.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\bin\Debug\net8.0\AulasIntermediarias.runtimeconfig.json
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\bin\Debug\net8.0\AulasIntermediarias.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\bin\Debug\net8.0\AulasIntermediarias.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.AssemblyInfoInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.AssemblyInfo.cs
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\refint\AulasIntermediarias.dll
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.pdb
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\AulasIntermediarias.genruntimeconfig.cache
+C:\Users\Jacqueline Braga\dev\projetos\repos\AulasIntermediarias\AulasIntermediarias\obj\Debug\net8.0\ref\AulasIntermediarias.dll
